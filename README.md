@@ -20,7 +20,6 @@ A tool that asks you how far you ran in kilometers and tells you how far that is
    ````
 3. Type this in your terminal:
    ```
+   cd km_2_miles
    distance.py
    ```
-5. Put the script there and run it.
-6. See how it works and tell me what you think!
